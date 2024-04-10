@@ -2,7 +2,7 @@
 
 ## Le challenge
 
-Mon challenge a été de faire apparaître des cercles ( ou bulles) de manière aléatoire à chaque fois que l'utilisation clique sur le bouton Update.
+Mon challenge a été de faire apparaître des cercles (ou bulles) de manière aléatoire à chaque fois que l'utilisation clique sur le bouton Update.
 
 ## Démonstration
 
