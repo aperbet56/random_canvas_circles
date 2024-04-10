@@ -1,0 +1,37 @@
+/**** Reset ****/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
+
+/**** Style général de la page ****/
+
+body {
+    width: 100%;
+    height: inherit;
+    background-color: #ffffff;
+}
+
+button {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 8px;
+    background-color: #e5e5e5;
+    transition: background-color 0.3s ease-out;
+}
+
+button:hover {
+    background-color: #cecece;
+}
+
+canvas {
+    display: block;
+}
