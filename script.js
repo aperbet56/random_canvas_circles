@@ -1,9 +1,10 @@
-// Récupérartion des éléments
+// Récupération des éléments
 const btn = document.querySelector("button");
 const canvas = document.querySelector("canvas");
 
 const ctx = canvas.getContext("2d");
 
+// Récupération des dimensions de l'écran de l'utilisateur
 let width = document.documentElement.clientWidth;
 let height = document.documentElement.clientHeight;
 
