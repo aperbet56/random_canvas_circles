@@ -11,7 +11,7 @@ Lien vers le projet : https://aperbet56.github.io/random_canvas_circles/
 ## Développez avec
 
 - Utilisation des balises sémantiques HTML5
-- CSS
+- CSS3
 - Animation CSS au survol du bouton
 - Utilisation d'un normaliseur : le fichier normalize.css
 - JavaScript
